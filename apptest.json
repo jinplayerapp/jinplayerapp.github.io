@@ -19,7 +19,7 @@
     "player_package" : "com.frontplay.jinplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
-    "episodeslist" :"{ \"episode\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\",  \"serie_name\" : \".mli-info h2\",  \"number\" : \".mli-eps i\",  \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
+    "episodeslist" :"{ \"episode\" : \".film_list-wrap\" ,  \"title\" : \".film-name a\",  \"serie_name\" : \".film-name a\",  \"number\" : \".fdi-item\",  \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "serieslist" :"{ \"serie\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "movieslist" :"{ \"movie\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "getEpisode" :"{ \"serieName\" : \".mvic-desc h3\" ,  \"serverAX\" : \"#server-ax .les-content\", \"url\" : \"a[href]\"}",
