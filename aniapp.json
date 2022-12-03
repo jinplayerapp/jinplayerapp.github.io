@@ -16,7 +16,7 @@
     "updatePACKAGENAME" : "com.specialplayer.frontplay",
     "updateDIRECTLINK" : "false",
     "player_update" : "false",
-    "player_package" : "com.myapps.inoutplayer",
+    "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "false",
     "episodeslist" :"{ \"episode\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\",  \"serie_name\" : \"div[class=name]\",  \"number\" : \"div[class=episode]\",  \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
