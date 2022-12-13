@@ -23,6 +23,6 @@
     "serieslist" :"{ \"serie\" : \".flw-item\" ,  \"title\" : \".film-name a\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "movieslist" :"{ \"movie\" : \".movies-list .ml-item\" ,  \"title\" : \".mli-info h2\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "getEpisode" :"{ \"serieName\" : \".mvic-desc h3\" , \"controls\" : \".ss-episodes li\", \"serverAX\" : \".watching_player-area iframe\", \"url\" : \"a[href]\"}",
-    "getSerie" :"{ \"title\" : \".mvi-content .mvic-desc h3\" ,  \"desc\" : \".mvi-content .desc\", \"data\" : \".mvic-info p\", \"dataKey\" : \"strong\", \"dataVal\" : \"a\",  \"serverAX\" : \"#server-ax .les-content\"}",
-    "getMovie" :"{ \"title\" : \".mvi-content .mvic-desc h3\" ,  \"desc\" : \".mvi-content .desc\", \"data\" : \".mvic-info p\", \"dataKey\" : \"strong\", \"dataVal\" : \"a\",  \"serverAX\" : \"#server-ax .les-content\"}"
+    "getSerie" :"{ \"title\" : \".mvi-content .mvic-desc h3\" ,  \"desc\" : \".movie_information .description\", \"data\" : \".movie_information .elements .row-line\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes\" : \".ss-episodes .nav-item\"}",
+    "getMovie" :"{ \"title\" : \".mvi-content .mvic-desc h3\" ,  \"desc\" : \".movie_information .description\", \"data\" : \".movie_information .elements .row-line\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes\" : \".ss-episodes .nav-item\"}"
 }
