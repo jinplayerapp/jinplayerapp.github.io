@@ -16,7 +16,7 @@
     "updatePACKAGENAME" : "",
     "updateDIRECTLINK" : "false",
     "player_update" : "false",
-    "player_package" : "com.frontplay.jinplayer",
+    "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "false",
     "episodeslist" :"{ \"episode\" : \".flw-item\" ,  \"title\" : \".film-name a\",  \"serie_name\" : \".film-name a\",  \"number\" : \".fd-infor .fdi-item:eq(2)\",  \"url\" : \"a[href]\",  \"poster\" : \".film-poster img\" }",
