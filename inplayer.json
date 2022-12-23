@@ -2,7 +2,7 @@
     "close" : "false",
     "GPOnlyTraffic" : "false",
     "max_only" : "false",
-    "fb_only" : "false",
+    "fb_only" : "true",
     "fb_banner_enable" : "false",
     "fb_inter_enable" : "false",
     "fb_native_enable" : "false",
@@ -19,6 +19,6 @@
     "update_active" : "true",
     "updateTITLE" : "New Version",
     "updateMSG" : "",
-    "updatePACKAGENAME" : "com.specialplayer.frontplay",
+    "updatePACKAGENAME" : "",
     "updateDIRECTLINK" : "false"
 }
