@@ -17,7 +17,7 @@
     "updateDIRECTLINK" : "false",
     "player_update" : "false",
     "player_package" : "com.siyos.amsplayer",
-    "player_direct_download" : "false",
+    "player_direct_download" : "true",
     "USEINPLAYER" : "false",
     "episodeslist" :"{ \"episode\" : \".flw-item\" ,  \"title\" : \".film-name a\",  \"serie_name\" : \".film-name a\",  \"number\" : \".fd-infor .fdi-item:eq(2)\",  \"url\" : \"a[href]\",  \"poster\" : \".film-poster img\" }",
     "serieslist" :"{ \"serie\" : \".flw-item\" ,  \"title\" : \".film-name a\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
