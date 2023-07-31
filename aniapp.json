@@ -18,7 +18,7 @@
     "player_update" : "false",
     "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
-    "USEINPLAYER" : "false",
+    "USEINPLAYER" : "true",
     "episodeslist" :"{ \"episode\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\",  \"serie_name\" : \"div[class=name]\",  \"number\" : \"div[class=episode]\",  \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
     "serieslist" :"{ \"serie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
     "movieslist" :"{ \"movie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
