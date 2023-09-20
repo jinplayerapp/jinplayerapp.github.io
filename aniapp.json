@@ -1,8 +1,6 @@
 {
     "close" : "false",
     "max_only" : "false",
-    "max_inter_enable" : "false",
-    "max_inter_id": "",
     "CurrentVersionCode" : "1",
     "options" : "English",
     "BASE_URL" : "https://animeseries.so",
