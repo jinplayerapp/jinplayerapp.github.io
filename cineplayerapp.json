@@ -16,9 +16,9 @@
     "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
-    "episodeslist" :"{ \"episode\" : \".flw-item\" ,  \"title\" : \".film-name a\",  \"serie_name\" : \".film-name a\",  \"number\" : \".fd-infor .fdi-item:eq(2)\",  \"url\" : \"a[href]\",  \"poster\" : \".film-poster imgFGF\" }",
-    "serieslist" :"{ \"serie\" : \".flw-item\" ,  \"title\" : \".film-name a\", \"url\" : \"a[href]\",  \"poster\" : \"imgFGF\" }",
-    "movieslist" :"{ \"movie\" : \".flw-item\" ,  \"title\" : \".film-name a\", \"url\" : \"a[href]\",  \"poster\" : \"imgFGF\" }",
+    "episodeslist" :"{ \"episode\" : \".flw-item\" ,  \"title\" : \".film-name a\",  \"serie_name\" : \".film-name a\",  \"number\" : \".fd-infor .fdi-item:eq(2)\",  \"url\" : \"a[href]\",  \"poster\" : \".film-poster img\" }",
+    "serieslist" :"{ \"serie\" : \".flw-item\" ,  \"title\" : \".film-name a\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
+    "movieslist" :"{ \"movie\" : \".flw-item\" ,  \"title\" : \".film-name a\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "getEpisode" :"{ \"serieName\" : \".mvic-desc h3\" , \"controls\" : \".ss-episodes li\", \"serverAX\" : \".watching_player-area iframe\", \"url\" : \"a[href]\"}",
     "getSerie" :"{ \"title\" : \"\" ,  \"desc\" : \".movie_information .description\", \"data\" : \".movie_information .elements .row-line\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes\" : \".ss-episodes .nav-item\"}",
     "getMovie" :"{ \"title\" : \"\" ,  \"desc\" : \".movie_information .description\", \"data\" : \".movie_information .elements .row-line\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"serverAX\" : \".watching_player-area iframe\"}"
