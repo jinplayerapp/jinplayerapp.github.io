@@ -16,9 +16,9 @@
     "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
-    "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",  \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
-    "serieslist" :"{ \"serie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
-    "movieslist" :"{ \"movie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
+    "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",\"type\" : \"span.eq(1)\" , \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
+    "serieslist" :"{ \"serie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
+    "movieslist" :"{ \"movie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",\"type\" : \"span.eq(1)\" , \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
     "getEpisode" :"{ \"serieName\" : \".anime_top .left\" ,  \"controls\" : \".watch_player .control li\",  \"servers\" : \".list_episode_video .bottom .row\", \"serieURL\" : \".anime_top .right a\"}",
     "getSerie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\"}",
     "getMovie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\" ,  \"servers\" : \".list_episode_video .bottom .row\"}"
