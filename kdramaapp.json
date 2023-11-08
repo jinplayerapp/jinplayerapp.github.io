@@ -3,7 +3,7 @@
     "CurrentVersionCode" : "1",
     "options" : "English",
     "BASE_URL" : "https://www2.dramacool.do",
-    "EPISODES_BASE_URL" : "https://www2.dramacool.do/recently-added?page",
+    "EPISODES_BASE_URL" : "https://www2.dramacool.do/recently-added?page=",
     "SERIES_BASE_URL" : "https://www2.dramacool.do/most-popular-drama?page=",
     "MOVIES_BASE_URL" : "https://www2.dramacool.do/recently-added-movie?page=",
     "FIREBASE_SUBS" : "playgeh",   
