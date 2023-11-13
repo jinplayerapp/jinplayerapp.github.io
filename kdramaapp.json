@@ -2,10 +2,10 @@
     "close" : "false",
     "CurrentVersionCode" : "1",
     "options" : "English",
-    "BASE_URL" : "https://www2.dramacool.do",
-    "EPISODES_BASE_URL" : "https://www2.dramacool.do/recently-added?page=",
-    "SERIES_BASE_URL" : "https://www2.dramacool.do/most-popular-drama?page=",
-    "MOVIES_BASE_URL" : "https://www2.dramacool.do/recently-added-movie?page=",
+    "BASE_URL" : "https://dramacool.pa/",
+    "EPISODES_BASE_URL" : "https://dramacool.pa/recently-added?page=",
+    "SERIES_BASE_URL" : "https://dramacool.pa/most-popular-drama?page=",
+    "MOVIES_BASE_URL" : "https://dramacool.pa/recently-added-movie?page=",
     "FIREBASE_SUBS" : "playgeh",   
     "update_active" : "true",
     "updateTITLE" : "New Version",
@@ -19,7 +19,7 @@
     "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
     "serieslist" :"{ \"serie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
     "movieslist" :"{ \"movie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
-    "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link li\", \"serieURL\" : \".info-drama a\"}",
+    "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link ul li\", \"serieURL\" : \".info-drama a\"}",
     "getSerie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\"}",
     "getMovie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\" ,  \"servers\" : \".list_episode_video .bottom .row\"}"
 }
