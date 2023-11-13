@@ -16,7 +16,7 @@
     "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
-    "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
+    "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "serieslist" :"{ \"serie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
     "movieslist" :"{ \"movie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \".descrimg\" }",
     "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link ul li\", \"serieURL\" : \".info-drama a\"}",
