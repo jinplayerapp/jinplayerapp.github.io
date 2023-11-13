@@ -2,7 +2,7 @@
     "close" : "false",
     "CurrentVersionCode" : "1",
     "options" : "English",
-    "BASE_URL" : "https://dramacool.pa/",
+    "BASE_URL" : "https://dramacool.pa",
     "EPISODES_BASE_URL" : "https://dramacool.pa/recently-added?page=",
     "SERIES_BASE_URL" : "https://dramacool.pa/most-popular-drama?page=",
     "MOVIES_BASE_URL" : "https://dramacool.pa/recently-added-movie?page=",
