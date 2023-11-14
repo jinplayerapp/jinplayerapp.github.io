@@ -21,5 +21,5 @@
     "movieslist" :"{ \"movie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "getEpisode" :"{ \"serieName\" : \".info-drama a\" ,  \"controls\" : \".direction a\",  \"servers\" : \".anime_muti_link ul li\", \"serieURL\" : \".info-drama a\"}",
     "getSerie" :"{ \"title\" : \".details .info h1\" ,  \"desc\" : \".details .info p:not(:has(span))\", \"data\" : \".details .info p:has(span)\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \"ul.all-episode li\"}",
-    "getMovie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\" ,  \"servers\" : \".list_episode_video .bottom .row\"}"
+    "getMovie" :"{ \"title\" : \".details .info h1\" ,  \"desc\" : \".details .info p:not(:has(span))\", \"data\" : \".details .info p:has(span)\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \"ul.all-episode li\" ,  \"servers\" : \".anime_muti_link ul li\"}"
 }
