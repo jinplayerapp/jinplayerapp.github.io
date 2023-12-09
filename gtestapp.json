@@ -6,7 +6,7 @@
     "appworkerperiod" : "59",
     "appworkerperiodflex" : "10",
     "StreamType": "Anime",
-    "streamURL":"https://jinplayerapp.github.io/aniapp.json",
+    "streamURL":"https://jinplayerapp.github.io/animeapptest.json",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
     "enable_stream_first" : "true",
