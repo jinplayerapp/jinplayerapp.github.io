@@ -29,7 +29,7 @@
     "max_inter_id": "7b09a73bce407ee9",
     "max_native_id": "cfffe6cea2dddaa7",
     "max_open_id": "02cb240f3c3a088f",
-    "player_banner_enable" : "true",
+    "player_banner_enable" : "false",
     "player_inter_enable" : "true",
     "player_native_enable" : "false",
     "interstitial_step":"1",
