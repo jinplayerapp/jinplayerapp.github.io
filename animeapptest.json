@@ -4,6 +4,7 @@
     "options" : "English",
     "BASE_URL" : "https://animeseries.so",
     "EPISODES_BASE_URL" : "https://animeseries.so/recently-added.html?page=",
+    "EPISODES_DUB_BASE_URL" : "https://animeseries.so/recently-added-dub.html?page=",
     "SERIES_BASE_URL" : "https://animeseries.so/popular-anime?page=",
     "MOVIES_BASE_URL" : "https://animeseries.so/anime-movies?page=",
     "FIREBASE_SUBS" : "playgeh",   
