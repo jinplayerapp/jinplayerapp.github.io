@@ -1,6 +1,5 @@
 {
     "close" : "false",
-    "CurrentVersionCode" : "1",
     "options" : "English",
     "BASE_URL" : "https://dramacool.pa",
     "EPISODES_BASE_URL" : "https://dramacool.pa/recently-added?page=",
@@ -9,9 +8,10 @@
     "MOVIES_BASE_URL" : "https://dramacool.pa/recently-added-movie?page=",
     "FIREBASE_SUBS" : "playgeh",   
     "update_active" : "true",
+    "CurrentVersionCode" : "2",
     "updateTITLE" : "New Version",
     "updateMSG" : "",
-    "updatePACKAGENAME" : "",
+    "updatePACKAGENAME" : "com.dts.freefireth",
     "updateDIRECTLINK" : "false",
     "player_update" : "false",
     "player_package" : "com.siyos.amsplayer",
