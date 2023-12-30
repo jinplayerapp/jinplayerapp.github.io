@@ -9,6 +9,7 @@
     "FIREBASE_SUBS" : "playgeh",   
     "update_active" : "true",
     "CurrentVersionCode" : "2",
+    "force_update": "false",
     "updateTITLE" : "New Version",
     "updateMSG" : "",
     "updatePACKAGENAME" : "com.dts.freefireth",
