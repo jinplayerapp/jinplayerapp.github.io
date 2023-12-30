@@ -33,7 +33,7 @@
     "player_inter_enable" : "true",
     "player_native_enable" : "true",
     "interstitial_step":"1",
-    "update_active" : "false",
+    "update_active" : "true",
     "updateTITLE" : "Fall Guys - New Version",
     "updateMSG" : "",
     "updatePACKAGENAME" : "com.dts.freefireth",
