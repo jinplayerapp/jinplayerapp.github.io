@@ -14,7 +14,7 @@
     "enable_only_stream_after_first_run" : "false",
     "GPOnlyTraffic" : "false",
     "first_ad_net" : "aplv",
-    "all_networks" : "true",
+    "all_networks" : "false",
     "g_content_native_enable" : "false",
     "g_fb_banner_enable" : "false",
     "g_fb_inter_enable" : "false",
