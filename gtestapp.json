@@ -1,7 +1,7 @@
 {
      "closeApp" : "false",
      "privacy_url" : "",
-     "enable_permission" : "true",
+     "enable_permission" : "false",
      "enable_in_player_permission" : "true",
     "appworker" : "true", 
     "appworkerperiod" : "5",
