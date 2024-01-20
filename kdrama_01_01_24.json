@@ -18,7 +18,7 @@
     "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
-    "drama_down_server" : "playc.pro",
+    "drama_down_server" : "playc.pro pladrac.net ",
     "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "serieslist" :"{ \"serie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "movieslist" :"{ \"movie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
