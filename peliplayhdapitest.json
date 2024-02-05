@@ -23,6 +23,6 @@
     "serieslist" :"{ \"serie\" : \".items .item\" ,  \"title\" : \".data h3 a\", \"url\" : \".poster a\",  \"poster\" : \".poster img\" }",
     "movieslist" :"{ \"movie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "getEpisode" :"{ \"serieName\" : \".anime_top .left\" ,  \"controls\" : \".watch_player .control li a\",  \"servers\" : \".list_episode_video .bottom .row\", \"serieURL\" : \".anime_top .right a\", \"downloadpage\" : \".plugins ul:nth-child(2) li:nth-child(5) a\"}",
-    "getSerie" :"{ \"title\" : \".data h1\" ,  \"desc\" : \".info p\", \"data\" : \".info .custom_fields\", \"dataKey\" : \".variante\", \"dataVal\" : \".valor\",  \"episodes_list\" : \"#serie_contenido li\"}",
+    "getSerie" :"{ \"title\" : \".data h1\" ,  \"desc\" : \"#info p\", \"data\" : \"#info .custom_fields\", \"dataKey\" : \".variante\", \"dataVal\" : \".valor\",  \"episodes_list\" : \"#serie_contenido li\"}",
     "getMovie" :"{ \"title\" : \".info .right h1\" ,  \"desc\" : \".info .right p\", \"data\" : \".info .right .des\", \"dataKey\" : \"span\", \"dataVal\" : \"a\",  \"episodes_list\" : \".list_episode ul li\" ,  \"servers\" : \".list_episode_video .bottom .row\", \"downloadpage\" : \".plugins ul:nth-child(2) li:nth-child(5) a\"}"
 }
