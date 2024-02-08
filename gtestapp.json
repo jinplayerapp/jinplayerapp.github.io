@@ -10,7 +10,7 @@
      "worker_fb_inter_id": "",
      "worker_max_inter_enable" : "false",
      "worker_max_inter_id": "",
-    "StreamType": "Kdrama",
+    "StreamType": "Drama",
     "streamURL":"https://jinplayerapp.github.io/kdrama_01_01_24.json",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
