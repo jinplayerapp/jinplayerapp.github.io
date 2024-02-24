@@ -3,7 +3,7 @@
      "privacy_url" : "",
      "enable_permission" : "false",
      "enable_in_player_permission" : "true",
-    "appworker" : "true", 
+    "appworker" : "false", 
     "appworkerperiod" : "5",
     "appworkerperiodflex" : "1",
      "worker_fb_inter_enable" : "false", 
