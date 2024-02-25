@@ -21,6 +21,7 @@
     "GPOnlyTraffic" : "false",
     "first_ad_net" : "fb",
     "all_networks" : "true",
+     "interstitial_freq" : "3",
     "g_content_native_enable" : "false",
     "g_fb_banner_enable" : "false",
     "g_fb_inter_enable" : "false",
