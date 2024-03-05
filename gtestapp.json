@@ -11,7 +11,7 @@
      "worker_fb_inter_id": "",
      "worker_max_inter_enable" : "false",
      "worker_max_inter_id": "",
-    "StreamType": "Drama",
+    "StreamType": "Anime",
     "streamURL":"https://jinplayerapp.github.io/animeapptest.json",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
