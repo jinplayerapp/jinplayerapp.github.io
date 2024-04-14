@@ -13,6 +13,7 @@
      "worker_max_inter_id": "",
     "StreamType": "Drama",
     "streamURL":"https://jinplayerapp.github.io/kdrama_02_28_24.json",
+     "generate_links_only": "false",
     "enable_stream" : "true",
     "ScrapStreamData" : "true",
     "enable_stream_first" : "true",
