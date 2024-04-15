@@ -21,6 +21,8 @@
     "generate_delay" : "3000",
     "drama_down_server" : "pladrac.net",
      "decode_links" : "true",
+    "predecode_add" : "aHR0cHM6Ly",
+    "decode_substring_index" : "aHR0cHM6Ly",
     "episodeslist" :"{ \"episode\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"serie_name\" : \"h3[class=title]\",  \"number\" : \".ep\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "serieslist" :"{ \"serie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",  \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
     "movieslist" :"{ \"movie\" : \".list-episode-item li\" ,  \"title\" : \"h3[class=title]\",\"type\" : \".ep\" , \"url\" : \"a[href]\",  \"poster\" : \"img\" }",
