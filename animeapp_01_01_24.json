@@ -18,7 +18,7 @@
     "player_package" : "com.siyos.amsplayer",
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
-    "anime_down_server" : "embtaku.pro",
+    "anime_down_server" : "embtaku.pro embtaku.com",
     "episodeslist" :"{ \"episode\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\",  \"serie_name\" : \"div[class=name]\",  \"number\" : \".bottom div:eq(1)\",  \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
     "serieslist" :"{ \"serie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
     "movieslist" :"{ \"movie\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\", \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
