@@ -19,7 +19,7 @@
     "player_direct_download" : "false",
     "USEINPLAYER" : "true",
     "generate_delay" : "3000",
-    "anime_down_server" : "embtaku.com",
+    "anime_down_server" : "s3taku.com",
     "decode_links" : "false",
      "generate_links_only": "false",
     "episodeslist" :"{ \"episode\" : \".content_episode .items li\" ,  \"title\" : \"div[class=name]\",  \"serie_name\" : \"div[class=name]\",  \"number\" : \".bottom div:eq(1)\",  \"url\" : \"a[href]\",  \"poster\" : \"div[class=thumb_anime]\" }",
